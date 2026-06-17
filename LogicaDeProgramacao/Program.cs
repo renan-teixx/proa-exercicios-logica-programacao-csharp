@@ -1,6 +1,8 @@
 ﻿using LogicaDeProgramacao;
 using System;
 
+//Os exercícios de 1 a 40 envolvem a execução de um programa de lógica de programação com estrutura de decisão, onde cada programa representa um exercício diferente. Você pode descomentar as linhas correspondentes para executar cada exercício individualmente.
+
 //Ex01ValidacaoDeNota.Main(args);
 //Ex02MonitoramentoDeCPU.Main(args);
 //Ex03ModuloDeNumero.Main(args);
@@ -39,4 +41,16 @@ using System;
 //Ex36CalculadoraComProtecao.Main(args);
 //Ex37ClassificacaoDePortas.Main(args);
 //Ex38RegraDeFreteEcommerce.Main(args);
-Ex39TrianguloValido.Main(args);
+//Ex39TrianguloValido.Main(args);
+//Ex40AlocacaoEmCloudServer.Main(args);
+
+//Os exercícios de 41 a 48 envolvem a chamada de métodos, onde cada método representa uma funcionalidade específica. Você pode descomentar as linhas correspondentes para executar cada exercício individualmente.
+
+//Ex41ChamadaDeMetodo.Main(args);
+//Ex42ChamadaMultiplaDeMetodo.Main(args);
+//Ex43ParametroNoMetodo.Main(args);
+//Ex44MultiplosParametrosNoMetodo.Main(args);
+//Ex45ParametroDefault.Main(args);
+//Ex46RetornoDeValores.Main(args);
+//Ex47ArgumentosNomeados.Main(args);
+//Ex48Sobrecarregar.Main(args);
